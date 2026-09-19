@@ -1,0 +1,10 @@
+# Publication allowlist. New files require an explicit privacy/copyright review.
+/*
+!/.gitignore
+!/README.md
+!/METHODS.md
+!/PRIVACY.md
+!/evidence_agent.py
+!/test_evidence_agent.py
+
+# Do not add study resources, environments, credentials, logs, or prior history.
